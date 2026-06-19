@@ -27,4 +27,4 @@ pip install numpy pandas scikit-learn matplotlib seaborn shap
 
 ## Author
 
-Built by Aseel as a self-directed mini-project demonstrating readiness for the HER-CARE DC11 PhD position at the Medical University of Vienna.
+Built by Aseel as a self-directed mini-project demonstrating readiness.
